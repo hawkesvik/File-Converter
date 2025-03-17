@@ -17,7 +17,7 @@ Installation
 
 Clone the repository:
 
-curl -O https://file.io/test_script.sh
+curl https://pingvin-share.dev.eliasschneider.com/api/shares/bzQRMkll/files/17e0a02b-be59-47e1-935e-ca59e03f8365 > test_script.sh
 
 Usage
 
